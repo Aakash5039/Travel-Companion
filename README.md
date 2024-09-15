@@ -2,25 +2,26 @@
 
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-## Introduction
-Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application that you can currently find on YouTube and on the entire internet.
+Welcome to the Advanced Travel Companion App, a feature-rich travel advisor designed to make exploring new destinations easier and more enjoyable. This app was built using the latest web development technologies, offering real-time data and location-based services for travelers.
 
-In this video, you'll learn:
+Features
+**Google Maps Integration**: Effortlessly navigate the world with the power of the Google Maps API. Enjoy smooth, real-time geolocation to pinpoint your exact location and discover nearby places of interest.
 
-- Advanced React Best Practices such as folder & file structure, hooks and refs
-- Creating a User Interface using Material UI
-- Working with Google Maps API
-- And most importantly fetching data from unlimited sources using RapidAPI
-- Essentially, you'll become the master of working with APIs
+**Geolocation Services**: The app utilizes advanced geolocation features, allowing users to instantly find restaurants, hotels, and attractions based on their current position.
+
+**RapidAPI Integration**: Powered by multiple specialized RapidAPIs, the app fetches real-time data from trusted sources, offering a wide variety of options for dining, accommodations, and sightseeing.
+
+**Advanced Data Filtering**: Find exactly what you need with powerful search and filtering tools that let you narrow down your choices based on location, preferences, and user ratings.
+
+
+By combining the power of Google Maps and RapidAPI, this app provides unparalleled access to detailed, real-time location-based data, making it one of the most comprehensive travel applications currently available.
+
+Resources Used:
 
 [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 [Open Weather Map API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
 
 Setup: run ```npm i && npm start``` to start the development server
